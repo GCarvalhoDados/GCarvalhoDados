@@ -1,3 +1,25 @@
+
+<<h1 align="center">Hi 👋, I'm o Gean Carvalho</h1>
+<h3 align="center">Um entusiasta de análise de dados e BI focado em otimizar processos logísticos e aprimorar a cadeia de suprimentos.</h3>
+
+- 🔭 Sou um Analista de Dados/BI com uma paixão pela otimização de processos logísticos e da cadeia de suprimentos. Meu objetivo é aplicar minhas habilidades analíticas e melhorar a eficiência operacional em ambientes logísticos e de supply chain. Com experiência em análise de dados, modelagem estatística e visualização de informações, estou comprometido em gerar impacto positivo nos processos de negócios. **Logística e Supply Chain**
+
+- 🌱 Atualmente estou aprofundando os conhecimentos **Power BI, Excel e SQL**
+
+- 💬 Me pergunte sobre **SQL, Power BI e Excel**
+
+- 📫 Você me encontra através do e-mail **gecarlos1993@gmail.com**
+
+- 📄 Venha conhecer um pouco mais sobre as minhas experiências (https:/ /www.linkedin.com/in/geancarvalho93/)
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in /https://www.linkedin.com/in/geancarvalho93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- gerador/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geancarvalho93/" height="30" width="40" /> </a>
+</p>
+
+
+
+<!---
 - Analista de Dados/BI - Logística e Supply Chain | @GCarvalhoDados
 - 👋 Olá, sou @GCarvalhoDados, um entusiasta de análise de dados e BI focado em otimizar processos logísticos e aprimorar a cadeia de suprimentos.
 - Sou um Analista de Dados/BI com uma paixão pela otimização de processos logísticos e da cadeia de suprimentos. Meu objetivo é aplicar minhas habilidades analíticas e 
