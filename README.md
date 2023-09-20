@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprofundando os conhecimentos **Power BaaI, Excel e SQL**
 
-- 💬 Me pergunte sobre **SQL, Power BI e Excel**
+- 💬 Me pergunte sobre **SQL, Power BI e Excel** aaaaa
 
 - 📫 Você me encontra através do e-mail **gecarlos1993@gmail.com**
 
