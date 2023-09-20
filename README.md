@@ -31,4 +31,5 @@ Uma boa maneira de automatizar esse processo é utilizando a linguagem Python pa
 ![foto - dash](https://github.com/GCarvalhoDados/GCarvalhoDados/assets/143357166/06e9803c-c4c9-47c3-a81c-528fb2be801e)
 
 **Link do Projeto - Power BI:** https://bit.ly/3ruVqR3
+**PROJETO 2**
 
