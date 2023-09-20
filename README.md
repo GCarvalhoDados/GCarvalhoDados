@@ -4,7 +4,7 @@
 
 - 🔭 Sou um Analista de Dados/BI com uma paixão pela otimização de processos logísticos e da cadeia de suprimentos. Meu objetivo é aplicar minhas habilidades analíticas e melhorar a eficiência operacional em ambientes logísticos e de supply chain. Com experiência em análise de dados, modelagem estatística e visualização de informações, estou comprometido em gerar impacto positivo nos processos de negócios. **Logística e Supply Chain**
 
-- 🌱 Atualmente estou aprofundando os conhecimentos **Power BI, Excel e SQL**
+- 🌱 Atualmente estou aprofundando os conhecimentos **Power BaaI, Excel e SQL**
 
 - 💬 Me pergunte sobre **SQL, Power BI e Excel**
 
