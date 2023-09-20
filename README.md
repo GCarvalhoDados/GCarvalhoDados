@@ -1,21 +1,17 @@
 
-<<h1 align="center">Hi 👋, I'm o Gean Carvalho</h1>
-<h3 align="center">Um entusiasta de análise de dados e BI focado em otimizar processos logísticos e aprimorar a cadeia de suprimentos.</h3>
+<<h1 align="center">Oi 👋, sou o Gean Carvalho</h1>
+<h3 align="center"> Profissional data drive, focado em resolver problemas de negócio por meio de dados, assim ajudo empresas a tomarem decisões mais assertivas e, consequentemente, fazendo com que elas se mantenham em ambiente competitivo. .</h3>
 
-- 🔭 Sou um Analista de Dados/BI com uma paixão pela otimização de processos logísticos e da cadeia de suprimentos. Meu objetivo é aplicar minhas habilidades analíticas e melhorar a eficiência operacional em ambientes logísticos e de supply chain. Com experiência em análise de dados, modelagem estatística e visualização de informações, estou comprometido em gerar impacto positivo nos processos de negócios. **Logística e Supply Chain**
+- 🔭 Sou um Analista de Dados/BI com uma paixão pela otimização de processos, meu trabalho como analista de dados é coletar, processar e analisar conjuntos de dados e apresentar relatórios e/ou dashboards intuitivos e de fácil entendimento. **
 
-- 🌱 Atualmente estou aprofundando os conhecimentos **Power BaaI, Excel e SQL**
+- 🌱 Atualmente estou aprofundando os conhecimentos **Power BI (DAX, M, Power Query), Excel e Google Sheets (Tabela dinânima, Fórmulas avançadas) e SQL (Função de agregação, matemáticas, texto, data, geográfica além de joins, subQuery e Window Functions)**
 
-- 💬 Me pergunte sobre **SQL, Power BI e Excel** aaaaa
+- 💬 Me pergunte sobre **SQL, Power BI, Excel, Google Sheets, Marketing, Inteligência de Mercado, ETL, Análise de Dados, Métodologias Ageis**
 
 - 📫 Você me encontra através do e-mail **gecarlos1993@gmail.com**
 
 - 📄 Venha conhecer um pouco mais sobre as minhas experiências (https:/ /www.linkedin.com/in/geancarvalho93/)
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in /https://www.linkedin.com/in/geancarvalho93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- gerador/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geancarvalho93/" height="30" width="40" /> </a>
-</p>
 
 
 
