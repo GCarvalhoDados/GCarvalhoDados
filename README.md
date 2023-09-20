@@ -16,7 +16,7 @@
 PROJETOS EM POWER BI
 
 
-<PROJETO 1>
+**PROJETO 1**
 
 - **Problema do negócio:**
 No levantamento de requisitos, junto ao Diretor de Marketing, foi informado que ele tinha a necessidade de verificar os gastos em cada plataforma de anúncio (Google Ads e Facebook Ads) e ter esses dados sempre atualizados. Além dos gastos, o tomador de decisão precisa de uma visão macro para determinar em qual plataforma vale a pena investir mais.
@@ -30,5 +30,5 @@ Uma boa maneira de automatizar esse processo é utilizando a linguagem Python pa
 
 ![foto - dash](https://github.com/GCarvalhoDados/GCarvalhoDados/assets/143357166/06e9803c-c4c9-47c3-a81c-528fb2be801e)
 
-Link do Projeto: https://bit.ly/3ruVqR3
+**Link do Projeto - Power BI:** https://bit.ly/3ruVqR3
 
