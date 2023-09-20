@@ -1,47 +1,29 @@
 
-<<h1 align="center">Oi 👋, sou o Gean Carvalho</h1>
-<h3 align="center"> Profissional data drive, focado em resolver problemas de negócio por meio de dados, assim ajudo empresas a tomarem decisões mais assertivas e, consequentemente, fazendo com que elas se mantenham em ambiente competitivo. .</h3>
+<h1 align="center">Oi 👋, sou o Gean Carvalho</h1>
+<h3 align="center"> Profissional data drive, focado em resolver problemas de negócio por meio de dados, assim ajudo empresas a tomarem decisões mais assertivas e, consequentemente, fazendo com que elas se mantenham em ambiente competitivo.</h3>
 
 - 🔭 Sou um Analista de Dados/BI com uma paixão pela otimização de processos, meu trabalho como analista de dados é coletar, processar e analisar conjuntos de dados e apresentar relatórios e/ou dashboards intuitivos e de fácil entendimento. **
 
 - 🌱 Atualmente estou aprofundando os conhecimentos **Power BI (DAX, M, Power Query), Excel e Google Sheets (Tabela dinânima, Fórmulas avançadas) e SQL (Função de agregação, matemáticas, texto, data, geográfica além de joins, subQuery e Window Functions)**
 
-- 💬 Me pergunte sobre **SQL, Power BI, Excel, Google Sheets, Marketing, Inteligência de Mercado, ETL, Análise de Dados, Métodologias Ageis**
+- 💬 Me pergunte sobre **SQL, Power BI, Excel, Google Sheets, Marketing, Inteligência de Mercado, ETL, Análise de Dados, Métodologias Ágeis**
 
-- 📫 Você me encontra através do e-mail **gecarlos1993@gmail.com**
+- 📫 Você me encontra através do **e-mail: gecarlos1993@gmail.com telefone: (61) 99246-3738**
 
-- 📄 Venha conhecer um pouco mais sobre as minhas experiências (https:/ /www.linkedin.com/in/geancarvalho93/)
-
-
+- 📄 Venha conhecer um pouco mais sobre as minhas experiências no Linkedin: www.linkedin.com/in/geancarvalho93
 
 
-<!---
-- Analista de Dados/BI - Logística e Supply Chain | @GCarvalhoDados
-- 👋 Olá, sou @GCarvalhoDados, um entusiasta de análise de dados e BI focado em otimizar processos logísticos e aprimorar a cadeia de suprimentos.
-- Sou um Analista de Dados/BI com uma paixão pela otimização de processos logísticos e da cadeia de suprimentos. Meu objetivo é aplicar minhas habilidades analíticas e 
-melhorar a eficiência operacional em ambientes logísticos e de supply chain. Com experiência em análise de dados, modelagem estatística e visualização de informações, 
-estou comprometido em gerar impacto positivo nos processos de negócios.
-- 👀 Estou interessado em explorar dados complexos de logística e supply chain para encontrar padrões ocultos, identificar oportunidades de otimização e contribuir para melhorias
-  significativas nos processos de negócios. Além disso, estou animado em aprender sobre novas tecnologias e práticas emergentes no campo da análise de dados.
-- 🌱 Atualmente estou aprimorando minhas habilidades na interpretação de dados e na aplicação de técnicas analíticas para obter insights que impulsionem melhorias eficazes em 
-logística e supply chain. Estou buscando aprofundar meu conhecimento em análises de tendências, detecção de anomalias e identificação de padrões que possam ser aplicados diretamente no contexto da cadeia de suprimentos.
-- 💞️ Estou buscando oportunidades para colaborar em projetos que envolvam análise de dados aplicada à logística e supply chain. Estou interessado em fazer parte de equipes multidisciplinares que compartilham a visão de otimizar operações,
-  reduzir custos e aprimorar a experiência do cliente por meio de insights baseados em dados.
-- 📫 Apoio admistrativo - Logística | SIGA | Brasília, DF | Nov 2020- Ago 2023
-- Coleta, limpeza e análise de dados relacionados ao controle de estoque, materiais de expediente e consumo.
-- Desenvolvimento de painéis de controle interativos usando Power BI para visualizar e monitorar níveis de estoque, demanda de materiais e padrões de consumo.
-- Identificação de oportunidades para otimização do fluxo de materiais, reduzindo atrasos e garantindo um abastecimento eficiente.
-- Participação ativa em projetos de automação de processos, integrando dados de consumo e estoque em sistemas de gerenciamento para melhorar a rastreabilidade e agilidade das operações.
-- 📫 Almoxarife - Logística | Brasfort | Brasília, DF | Nov 2015 - Nov 2020
-- Gestão eficiente do controle de estoque de materiais e suprimentos, garantindo disponibilidade adequada para a produção e operações.
-- Coleta, organização e atualização de dados relacionados à entrada e saída de materiais no sistema de gerenciamento de estoque.
-- Monitoramento de níveis de estoque para evitar escassez e excessos, contribuindo para a redução de custos operacionais.
-- Identificação de padrões de consumo ao longo do tempo, auxiliando na previsão de demanda e reabastecimento oportuno.
-- Colaboração com a equipe de compras para ajustar as ordens de compra com base em análises de histórico de consumo e necessidades futuras.
-- Utilização de sistemas de informação e planilhas para rastrear e gerenciar itens, permitindo um fluxo de trabalho mais eficiente.
-- Participação em projetos de melhoria contínua, onde implementei soluções para otimizar processos de controle de estoque e reduzir o tempo de resposta a solicitações de materiais.
+PROJETOS EM POWER BI
 
-<!---
-GCarvalhoDados/GCarvalhoDados is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<PROJETO 1>
+
+**Problema do negócio:**
+No levantamento de requisitos, junto ao Diretor de Marketing, foi informado que ele tinha a necessidade de verificar os gastos em cada plataforma de anúncio (Google Ads e Facebook Ads) e ter esses dados sempre atualizados. Além dos gastos, o tomador de decisão precisa de uma visão macro para determinar em qual plataforma vale a pena investir mais.
+
+**Resolução do problema:**
+Foram extraídos os dados atualizados dessas plataformas para serem importados para o Power BI. Nele, tratamos os dados utilizando o Power Query. Para ser mais específico, utilizamos a linguagem M. Em seguida, foram criadas as medidas DAX para realizar os cálculos que constam no dashboard. Foram utilizadas as seguintes medidas neste projeto: Alcance Geral, Custo de Aquisição (CAC), Impressão Geral, Quantidade de Vendas, Retorno sobre o Gasto com Anúncios (ROAS), Valor Gasto e Total de Cliques. Algumas medidas foram criadas de acordo com cada canal, para que pudéssemos ter uma visão específica de cada um. Depois, foi realizada outra medida para termos uma visão do nosso funil, como pode ser observado no gráfico de "Funil de Conversão de Leads".
+
+**Ponto de melhoria:**
+Temos que utilizar algo para automatizar o processo de extração desses dados, pois ele precisa ser feito manualmente nas plataformas, o que não nos traz confiabilidade nos dados.
+Uma boa maneira de automatizar esse processo é utilizando a linguagem Python para automatizar a extração desses dados.
