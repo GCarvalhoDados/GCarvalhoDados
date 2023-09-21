@@ -35,12 +35,16 @@ Conectamos o power bi nas plataformas de anúncios e extraídos os dados. Nele, 
   No levantamento de requisitos, junto ao Coordenador de Logística, foi informado que ele tinha a necessidade de reabastecer os estoques em tempo hábil, pois estava ocorrendo falta de mercadoria em produtos específicos em alguns armazéns.
 
 - **Resolução do Problema:**
-  Foi realizado um levantamento de balancete geral nos armazéns, mobilizando todo o pessoal para fazer a contagem e atualizar o sistema interno de controle de estoque. Utilizamos o Power BI para se conectar a uma planilha de controle interno que é atualizada de acordo com o sistema, e montamos um dashboard interativo para analisar a situação de estoque. Utilizamos DAX, Power Qury e Linguagem M, além, de utilizamos o framework Figma para montar o layout do dashbord.
+  Foi realizado um levantamento de balancete geral nos armazéns, mobilizando todo o pessoal para fazer a contagem e atualizar o sistema interno de controle de estoque. Utilizamos o Power BI para se conectar a uma planilha de controle interno que é atualizada de acordo com o sistema, e montamos um dashboard interativo para analisar a situação de estoque. 
+  Utilizamos DAX, Power Query e Linguagem M, além, de utilizamos o framework Figma para montar o layout do dashbord.
   
 - **Pontos de Melhoria:**
-  Planejaremos utilizar a linguagem Python para automatizar a entrada no sistema da empresa, gerar relatórios e montar o dashboard. No entanto, no momento, não temos a expertise necessária para resolver o problema dessa forma.
+  Planejaremos utilizar a linguagem Python para automatizar a entrada no sistema da empresa, gerar relatórios e montar o dashboard. No entanto, no momento, não temos a expertise necessária para resolver o problema dessa forma. Planejaremos para a próxima sprint.
+
+![4321](https://github.com/GCarvalhoDados/GCarvalhoDados/assets/143357166/4870f76e-833f-429f-9bbd-bb6567716092)
 
 
+**Link do Projeto - Power BI:** https://bit.ly/3PM4gU1
   
 
 
