@@ -2,7 +2,7 @@
 <h1 align="center">Oi 👋, sou o Gean Carvalho</h1>
 <h3 align="center"> Profissional data drive, focado em resolver problemas de negócio por meio de dados, assim ajudo empresas a tomarem decisões mais assertivas e, consequentemente, fazendo com que elas se mantenham em ambiente competitivo.</h3>
 
-- 🔭 Sou um Analista de Dados/BI com paixão pela otimização de processos, meu trabalho como analista de dados é coletar, processar e analisar conjuntos de dados e apresentar relatórios e/ou dashboards intuitivos e de fácil entendimento. **
+- 🔭 Sou um Analista de Dados/BI com paixão pela otimização de processos, meu trabalho como analista de dados é coletar, processar e analisar conjuntos de dados e apresentar relatórios e/ou dashboards intuitivos e de fácil entendimento. 
 
 - 🌱 Atualmente estou aprofundando os conhecimentos **Power BI (DAX, M, Power Query), Excel e Google Sheets (Tabela dinânima, Fórmulas avançadas) e SQL (Função de agregação, matemáticas, texto, data, geográfica além de joins, subQuery e Window Functions)**
 
