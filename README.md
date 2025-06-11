@@ -1,24 +1,23 @@
-# 👨‍💻 Olá! Sou o Gean – Engenheiro e Analista de Dados
+# Bem-vindo(a)! Sou o Gean Carvalho
 
-*Data Engineering | IA aplicada a dados | Python + SQL + Cloud-first*
+*Engenheiro de Dados l AI l SQL l Python l Spark l ETL l Databricks l Data Factory l Azure | DP-900*
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geancarvalhodados/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_alves95/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.telecomrbs@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edugitqa.github.io/Portifolio_Eduardo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gean.dadosbi@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre Mim
 
-Sou apaixonado por dados e por transformar complexidade em insights valiosos. Tenho background técnico em *Qualidade de Software* e hoje atuo na intersecção entre *engenharia de dados, IA aplicada e analytics*, com foco em impacto de negócio.
+Sou um **Engenheiro de Dados** focado em arquitetar e implementar soluções que transformam dados brutos em ativos estratégicos para o negócio. Com uma sólida base técnica, dedico-me à **construção de pipelines de dados robustos e confiáveis**, priorizando a **governança, performance e o impacto real para a tomada de decisões**. Atuo na vanguarda da Engenharia de Dados, explorando continuamente novas tecnologias para otimizar o fluxo e o consumo de dados, impulsionando a inovação e o crescimento.
 
-- 🛠 Pipelines de dados com Python, SQL, Airflow e DBT  
-- 🌐 Cloud-first: GCP, AWS e ferramentas serverless  
-- 🧠 Modelagem e análises orientadas por dados reais, não achismos  
-- 🧪 Automação de testes e validação de pipelines de dados  
-- 📊 Construção de dashboards com foco em decisões inteligentes
+-   🛠 **Construção e Otimização de Pipelines de Dados**: Expertise em desenvolvimento de soluções ETL/ELT robustas e escaláveis utilizando Python, SQL, Apache Airflow e dbt (data build tool).
+-   🌐 **Especialização em Ambientes Cloud**: Proficiência na implementação de soluções de dados em plataformas de nuvem líderes, incluindo GCP, AWS e Azure.
+-   🧠 **Modelagem e Transformação de Dados**: Habilidade em criar modelos de dados eficientes para Data Warehouses e Data Lakes, garantindo integridade e performance para análises estratégicas.
+-   🧪 **Qualidade e Governança de Dados**: Experiência na automação de testes, validação de dados e implementação de práticas de governança para assegurar a confiabilidade dos pipelines.
+-   📊 **Consumo de Dados para BI**: Capacidade de preparar e expor dados para ferramentas de Business Intelligence, colaborando na construção de dashboards que impulsionam decisões orientadas por dados.
 
 ---
 
@@ -68,22 +67,20 @@ Sou apaixonado por dados e por transformar complexidade em insights valiosos. Te
 
 ---
 
-## 🚀 Atualmente focado em
+## 🚀 Atualmente Focado em
 
-- 🔁 Arquitetura de dados em ambientes *Cloud-native*
-- 🧬 Engenharia de dados com foco em *qualidade, observabilidade e escalabilidade*
-- 📐 Validação de pipelines com *testes automatizados em dados*
-- 🧠 Integração de *IA generativa* com rotinas de análise e BI
-
----
-
-## 🧩 Learning by Building
-
-- Explorando *Apache Spark, Delta Lake e ferramentas open data*  
-- Aplicando *LLMs para interpretação automatizada de queries SQL e insights*
-- Criando *fluxos de dados event-driven e real time analytics*
+-   🔁 **Arquiteturas de Dados Cloud-Native:** Projetando e implementando soluções robustas em ambientes de nuvem, focando em escalabilidade e resiliência.
+-   🧬 **Engenharia de Dados Avançada:** Desenvolvendo pipelines com ênfase em qualidade de dados, observabilidade e performance otimizada em larga escala.
+-   📐 **Garantia de Qualidade de Dados (Data Quality):** Implementando validação e testes automatizados de pipelines para assegurar a confiabilidade e integridade dos dados.
+-   🧠 **IA Generativa em Análise de Dados:** Integrando modelos de IA generativa para automação de tarefas, interpretação de dados e otimização de insights em rotinas de análise e Business Intelligence.
 
 ---
+
+## 🧩 Learning by Building (Aprendendo na Prática)
+
+-   **Otimização de Data Lakes:** Aprofundando em Apache Spark e Delta Lake para construir e gerenciar Data Lakeshouse eficientes e transacionais.
+-   **Inteligência Artificial Aplicada a Dados:** Utilizando LLMs (Large Language Models) para a interpretação automatizada de queries SQL, geração de insights e sumarização de dados.
+-   **Engenharia de Streaming e Real-Time Analytics:** Desenvolvendo fluxos de dados orientados a eventos (event-driven) e soluções de análise em tempo real para tomada de decisão imediata.
 
 > “Dados não mentem, mas precisam ser bem tratados, testados e interpretados.”
 
